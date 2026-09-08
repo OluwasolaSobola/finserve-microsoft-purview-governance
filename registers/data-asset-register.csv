@@ -1,0 +1,12 @@
+Asset_Name,Business_Domain,Data_Owner,Data_Steward,Data_Classification,Primary_Governance_Purpose
+Customer_Master_T24.csv,Customer,Head of Customer Operations,Customer Data Steward,Confidential - Personal Data,Customer master and identity management
+CRM_Salesforce_Retail.csv,Customer - Retail,Head of Retail Banking,Retail Customer Data Steward,Confidential - Personal Data,Retail customer relationship management
+CRM_Dynamics_Commercial.csv,Customer - Commercial,Head of Commercial Banking,Commercial Customer Data Steward,Confidential - Personal Data,Commercial customer relationship management
+Accounts.csv,Accounts,Head of Banking Operations,Accounts Data Steward,Confidential - Financial,Customer account management and reconciliation
+Transactions.csv,Transactions,Head of Payments and Operations,Transaction Data Steward,Highly Confidential - Financial,Transaction processing and monitoring
+Loan_Applications.csv,Lending,Head of Lending,Lending Data Steward,Highly Confidential,Lending assessment and loan application management
+Fraud_Alerts.csv,Financial Crime,Head of Financial Crime,Fraud Data Steward,Restricted,Fraud detection investigation and monitoring
+Marketing_Campaigns.csv,Marketing,Head of Marketing,Marketing Data Steward,Confidential - Personal Data,Customer marketing and campaign management
+PII_Inventory.csv,Privacy,Data Protection Officer,Privacy Data Steward,Restricted,Personal data inventory and privacy governance
+Regulatory_Reports.csv,Regulatory Reporting,Head of Regulatory Reporting,Regulatory Data Steward,Confidential - Regulatory,Regulatory reporting and compliance
+AI_Model_Scores.csv,AI and Model Risk,Head of Model Risk,AI Governance Steward,Confidential,AI model monitoring and governance
