@@ -110,17 +110,19 @@ The project is intended to demonstrate practical data governance implementation 
 
 ## Repository Documentation
 
-Supporting documentation and implementation evidence will include:
+Supporting documentation and implementation evidence includes:
 
 - Data asset register
-- Data quality rules and findings
-- Data quality remediation register
-- Classification register
 - Critical Data Element register
+- Data quality remediation register
 - Customer 360 Data Product Terms of Use
-- Technical lineage documentation
-- Azure Data Factory transformation evidence
-- Microsoft Purview implementation screenshots
+- Microsoft Purview governance implementation documentation
+- Data quality profiling and rule evidence
+- Customer 360 data product evidence
+- Azure Data Factory and Parquet transformation evidence
+- Microsoft Purview scanning evidence
+- Data classification evidence
+- End-to-end technical lineage evidence
 
 ## Author
 
