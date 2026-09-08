@@ -1,0 +1,16 @@
+﻿Dynamics_ID,T24_Customer_ID,Company_Name,Contact_First,Contact_Last,Contact_Email,Contact_Phone,Office_Address,City,State,Zip,Industry,Revenue_Band,Relationship_Tier,Assigned_Banker,Last_Review_Date
+DYN-80002,CUST-10156,Keystone Bridge Builders,Laura,Miller,laura.miller@keystonebridgebuilders.com,(912) 494-1769,9305 Lake Shore Dr,Dayton,OH,85486,Real Estate,$10M-$25M,Silver,D. Okafor,45173
+DYN-80003,CUST-10157,Allied Chemical Distributors,Melissa,Roberts,melissa.roberts@alliedchemicaldistributors.com,(899) 276-4063,9055 Park Way,Cleveland,OH,79279,Logistics,$50M-$100M,Silver,R. Harrison,45550
+DYN-80004,CUST-10158,Keystone Bridge Builders,Steven,Smith,,(992) 840-5934,7740 Pine Rd,Milwaukee,WI,70073,Energy,$50M-$100M,Platinum,D. Okafor,45151
+DYN-80005,CUST-10159,Heartland Agricultural Co-op,Stephanie,Garcia,stephanie.garcia@heartlandagriculturalco-op.com,(423) 970-9691,7163 Jefferson St,Dayton,OH,82426,Construction,$5M-$10M,Platinum,R. Harrison,46010
+DYN-80006,CUST-10160,Great Lakes Shipping Alliance,Michelle,Sanchez,michelle.sanchez@greatlakesshippingalliance.com,(729) 988-7143,6422 Michigan Ave,Joliet,IL,107446,Healthcare,$50M-$100M,Silver,C. Nakamura,45539
+DYN-80007,CUST-10161,Great Lakes Steel Corp,David,Anderson,david.anderson@greatlakessteelcorp.com,(862) 273-3519,7050 Maple Ln,Fort Wayne,IN,95242,Agriculture,$10M-$25M,Gold,R. Harrison,45710
+DYN-80008,CUST-10162,Continental Grain Trading,Dorothy,Ramirez,dorothy.ramirez@continentalgraintrading.com,(889) 321-9762,7491 Lincoln Ave,Lansing,MI,80735,Technology,$10M-$25M,Gold,R. Harrison,45043
+DYN-80009,CUST-10163,Tri-State Manufacturing Group,Joshua,Flores,joshua.flores@tri-statemanufacturinggroup.com,(685) 360-9740,4712 Madison Dr,Evanston,IL,85894,Agriculture,$5M-$10M,Gold,D. Okafor,45493
+DYN-80010,CUST-10164,Great Plains Logistics Inc,Christopher,Davis,christopher.davis@greatplainslogisticsinc.com,(415) 966-6633,182 Lincoln Ave,Joliet,IL,95882,Energy,$5M-$10M,Silver,J. Patterson,45591
+DYN-80011,CUST-10165,Midwest Automotive Group,Michael,Roberts,michael.roberts@midwestautomotivegroup.com,(300) 402-8982,7657 Elm Dr,Cincinnati,OH,104019,Real Estate,$25M-$50M,Silver,J. Patterson,45200
+DYN-80012,CUST-10166,Northern Trust Realty Holdings,Donna,Rivera,donna.rivera@northerntrustrealtyholdings.com,(520) 452-4629,2596 Washington Blvd,Cincinnati,OH,88069,Construction,$25M-$50M,Platinum,J. Patterson,45095
+DYN-80013,CUST-10167,Tri-State Manufacturing Group,Gary,Torres,gary.torres@tri-statemanufacturinggroup.com,(469) 951-2252,2979 Elm Dr,Peoria,IL,78390,Manufacturing,$50M-$100M,Gold,R. Harrison,45299
+DYN-80014,CUST-10168,Tri-State Manufacturing Group,Jacob,Nelson,jacob.nelson@tri-statemanufacturinggroup.com,(675) 713-9362,6093 Lincoln Ave,Fort Wayne,IN,98640,Logistics,$25M-$50M,Gold,C. Nakamura,45542
+DYN-80015,CUST-10169,Prairie Wind Energy LLC,Christopher,Carter,christopher.carter@prairiewindenergyllc.com,(264) 470-7052,5978 Oak Ave,Grand Rapids,MI,109903,Financial Services,$5M-$10M,Platinum,D. Okafor,45470
+DYN-80016,CUST-10170,Midwest Healthcare Partners,Thomas,Rodriguez,kimberly.carter@midwesthealthcarepartners.com,(801) 869-2275,9580 Cedar Blvd,Kenosha,WI,,Manufacturing,$1M-$5M,Silver,R. Harrison,45276
