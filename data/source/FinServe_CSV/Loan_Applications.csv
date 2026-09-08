@@ -1,0 +1,121 @@
+﻿Application_ID,Customer_ID,Business_Line,Loan_Type,Application_Date,Requested_Amount,Term_Months,Purpose,Annual_Income,Credit_Score,DTI_Ratio,Employment_Status,Employment_Years,Collateral_Type,Collateral_Value,AI_Decision,AI_Risk_Score,Manual_Override,Override_Reason,Final_Decision,Decision_Date,Source_System
+APP-40002,CUST-10005,Retail Banking,Mortgage Refinance,45637,349568,48,Home improvement,101939,772,0.28,,29,Unsecured,1258289,Referred,0.6071,,,Denied,45913,nCino_Pilot
+APP-40003,CUST-10143,Small Business Banking,Working Capital,45765,184804,36,Equipment,1006921,767,0.32,Retired,5,Cash/Securities,734144,Referred,0.4633,,,Denied,45406,nCino_Pilot
+APP-40004,CUST-10095,Retail Banking,Home Equity Line,45577,157999,360,Equipment,69433,621,0.38,Part-Time,1,,1176938,Referred,0.4847,,,Approved,45760,nCino_Pilot
+APP-40005,CUST-10034,Retail Banking,Mortgage Refinance,45744,323306,36,Equipment,43300,691,0.21,,13,Inventory,594853,Referred,0.418,,,Approved,45829,Encompass_LOS
+APP-40006,CUST-10082,Retail Banking,Mortgage Refinance,45483,123016,12,Inventory financing,115316,582,0.4,Retired,11,Cash/Securities,813950,Referred,0.4814,,,Denied,45852,Encompass_LOS
+APP-40007,CUST-10008,Retail Banking,Auto Loan,45668,77651,360,Education,117876,766,0.4,Self-Employed,30,Cash/Securities,,Approved,0.1249,,,Approved,45681,nCino_Pilot
+APP-40008,CUST-10100,Retail Banking,Auto Loan,45448,450806,60,Home improvement,219114,674,0.38,Employed,29,Inventory,1275104,Denied,0.7224,,,Denied,45773,Encompass_LOS
+APP-40009,CUST-10119,Retail Banking,Personal Loan,45315,426363,12,Equipment,239981,639,0.32,,24,Real Estate,555320,Denied,0.9057,,,Denied,45651,nCino_Pilot
+APP-40010,CUST-10137,Small Business Banking,Working Capital,45456,234911,240,Real estate acquisition,1680078,638,0.51,Part-Time,6,Vehicle,1599516,Approved,0.3225,,,Approved,45632,Encompass_LOS
+APP-40011,CUST-10106,Retail Banking,Home Equity Line,46007,79422,48,Medical expenses,176368,687,0.55,Retired,28,Equipment,1477087,Approved,0.2454,,,Approved,45939,nCino_Pilot
+APP-40012,CUST-10010,Retail Banking,Auto Loan,45997,82607,360,Medical expenses,178138,794,0.16,Part-Time,18,Vehicle,1467693,Denied,0.8686,,,Denied,45371,Encompass_LOS
+APP-40013,CUST-10099,Retail Banking,Home Equity Line,45832,338846,240,Inventory financing,31438,797,0.58,Part-Time,10,Equipment,1241312,Referred,0.5924,,,Approved,45912,Encompass_LOS
+APP-40014,CUST-10125,Retail Banking,Auto Loan,45755,461540,36,Medical expenses,127655,840,0.24,,7,Cash/Securities,,Denied,0.8843,Yes,Relationship value,Approved,45888,Encompass_LOS
+APP-40015,CUST-10135,Small Business Banking,Equipment Purchase,45430,393695,240,Inventory financing,858262,672,0.48,Employed,3,Inventory,530034,Referred,0.4206,,,Approved,45438,Encompass_LOS
+APP-40016,CUST-10063,Retail Banking,Auto Loan,45653,366568,24,Vehicle purchase,68684,777,0.24,,13,Vehicle,1607359,Denied,0.9608,,,Denied,45873,nCino_Pilot
+APP-40017,CUST-10014,Retail Banking,Home Equity Line,45554,419195,48,Working capital,218085,720,0.25,Part-Time,0,Unsecured,1907899,Approved,0.1583,,,Approved,45641,Encompass_LOS
+APP-40018,CUST-10151,Small Business Banking,Commercial Real Estate,45916,5259,240,Medical expenses,118429,687,0.35,Retired,34,Vehicle,1431538,Approved,0.3018,,,Approved,45976,Encompass_LOS
+APP-40019,CUST-10047,Retail Banking,Mortgage Refinance,45971,8416,24,Real estate acquisition,52158,845,0.64,Retired,34,,,Referred,0.4876,,,Approved,45389,Encompass_LOS
+APP-40020,CUST-10129,Retail Banking,Home Equity Line,45449,172780,48,Equipment,141857,,0.39,Self-Employed,10,Equipment,1003578,Referred,0.6868,,,Approved,46000,Encompass_LOS
+APP-40021,CUST-10068,Retail Banking,Mortgage Refinance,46002,494857,180,Medical expenses,113504,838,0.3,Part-Time,26,Real Estate,857419,Approved,0.1848,,,Approved,45485,Encompass_LOS
+APP-40022,CUST-10117,Retail Banking,Home Equity Line,45668,15212,120,Equipment,177245,598,0.25,Retired,12,,1064748,Referred,0.6657,,,Denied,45781,Encompass_LOS
+APP-40023,CUST-10063,Retail Banking,Auto Loan,46014,175646,180,Education,68684,777,0.62,Retired,24,Real Estate,,Referred,0.6014,,,Approved,45795,Encompass_LOS
+APP-40024,CUST-10113,Retail Banking,Home Equity Line,45744,63212,36,Working capital,56311,556,0.59,Retired,35,Real Estate,697534,Approved,0.1188,,,Approved,45917,Encompass_LOS
+APP-40025,CUST-10006,Retail Banking,Auto Loan,45893,409803,48,Vehicle purchase,88143,840,0.59,Retired,29,Equipment,1431174,Denied,0.7003,,,Denied,45797,Encompass_LOS
+APP-40026,CUST-10036,Retail Banking,Personal Loan,45547,341718,12,Working capital,248436,823,0.35,Part-Time,32,,1667038,Referred,0.5023,,,Approved,45796,Encompass_LOS
+APP-40027,CUST-10018,Retail Banking,Personal Loan,45580,301383,360,Education,190089,844,,Employed,27,,956420,Referred,0.5692,,,Approved,45607,Encompass_LOS
+APP-40028,CUST-10047,Retail Banking,Home Equity Line,45677,243051,120,Debt consolidation,52158,845,0.5,Employed,27,Vehicle,477434,Denied,0.8128,,,Denied,45915,Encompass_LOS
+APP-40029,CUST-10148,Small Business Banking,Business Expansion,45418,473316,24,Debt consolidation,,771,0.58,,2,,,Approved,0.1919,,,Approved,45699,Encompass_LOS
+APP-40030,CUST-10059,Retail Banking,Auto Loan,45444,110749,36,Real estate acquisition,,697,0.36,Employed,24,Real Estate,1570160,Approved,0.3021,,,Approved,45475,nCino_Pilot
+APP-40031,CUST-10113,Retail Banking,Mortgage Refinance,45376,109143,48,Home improvement,56311,556,0.34,Part-Time,22,Cash/Securities,880586,Denied,0.8075,Yes,Additional collateral provided,Approved,45385,nCino_Pilot
+APP-40032,CUST-10093,Retail Banking,Mortgage Refinance,45866,138842,24,Business expansion,227782,717,0.62,Retired,4,Inventory,1377346,Approved,0.065,,,Approved,45770,Encompass_LOS
+APP-40033,CUST-10100,Retail Banking,Mortgage Refinance,45566,13309,36,Inventory financing,219114,674,0.29,Self-Employed,,Inventory,138306,Referred,0.652,,,Denied,45648,Encompass_LOS
+APP-40034,CUST-10096,Retail Banking,Mortgage Refinance,45447,436620,36,Debt consolidation,,,0.24,Part-Time,25,Cash/Securities,1774596,Denied,0.9208,,,Denied,45941,Encompass_LOS
+APP-40035,CUST-10007,Retail Banking,Home Equity Line,45355,19940,12,Business expansion,83903,582,0.17,Self-Employed,,Real Estate,,Denied,0.861,,,Denied,45883,nCino_Pilot
+APP-40036,CUST-10113,Retail Banking,Auto Loan,45727,454270,240,Business expansion,56311,556,0.47,,6,Inventory,1752920,Approved,0.3396,,,Approved,45359,nCino_Pilot
+APP-40037,CUST-10034,Retail Banking,Auto Loan,45391,123254,36,Medical expenses,43300,691,0.52,Retired,29,Cash/Securities,1094027,Denied,0.7171,,,Denied,45727,Encompass_LOS
+APP-40038,CUST-10096,Retail Banking,Auto Loan,45352,308755,36,Debt consolidation,,,0.58,Self-Employed,20,Real Estate,1024696,Denied,0.7456,,,Denied,45768,nCino_Pilot
+APP-40039,CUST-10104,Retail Banking,Mortgage Refinance,45814,117636,60,Business expansion,167093,571,0.28,Part-Time,29,Cash/Securities,,Referred,0.4591,,,Denied,45909,Encompass_LOS
+APP-40040,CUST-10094,Retail Banking,Mortgage Refinance,45692,341746,240,Medical expenses,26361,707,,Self-Employed,19,Inventory,1980376,Referred,0.5553,,,Approved,45541,Encompass_LOS
+APP-40041,CUST-10131,Small Business Banking,Equipment Purchase,45920,79296,36,Working capital,,,0.26,,34,Equipment,1464783,Approved,0.0655,,,Approved,45449,Encompass_LOS
+APP-40042,CUST-10043,Retail Banking,Auto Loan,45670,447099,60,Equipment,88850,614,0.51,,30,Inventory,1523195,Referred,0.553,,,Denied,45660,Encompass_LOS
+APP-40043,CUST-10143,Small Business Banking,Business Expansion,45741,114447,48,Equipment,1006921,767,0.46,Self-Employed,25,Unsecured,,Denied,0.9421,Yes,Manager discretion,Approved,45696,Encompass_LOS
+APP-40044,CUST-10036,Retail Banking,Mortgage Refinance,45809,69734,24,Inventory financing,248436,823,0.44,Retired,30,Vehicle,636675,Referred,0.6753,,,Approved,45559,nCino_Pilot
+APP-40045,CUST-10117,Retail Banking,Auto Loan,45500,41911,60,Home improvement,177245,598,0.53,Part-Time,10,Cash/Securities,1676094,Denied,0.7196,,,Denied,45785,nCino_Pilot
+APP-40046,CUST-10027,Retail Banking,Personal Loan,46005,388652,120,Debt consolidation,181445,694,0.45,Employed,17,,588532,Approved,0.3872,,,Approved,45978,Encompass_LOS
+APP-40047,CUST-10108,Retail Banking,Home Equity Line,45581,191993,48,Working capital,90638,592,,Part-Time,6,,1033120,Approved,0.1441,,,Approved,45947,Encompass_LOS
+APP-40048,CUST-10011,Retail Banking,Personal Loan,45952,314509,360,Equipment,144858,711,0.47,Part-Time,2,Equipment,933260,Approved,0.1417,,,Approved,45958,nCino_Pilot
+APP-40049,CUST-10010,Retail Banking,Mortgage Refinance,45312,431330,84,Home improvement,178138,794,0.52,Retired,1,Cash/Securities,1878446,Referred,0.4516,,,Approved,45835,Encompass_LOS
+APP-40050,CUST-10091,Retail Banking,Auto Loan,45400,150035,240,Business expansion,103636,591,0.17,Part-Time,11,,196372,Referred,0.4761,,,Denied,45828,nCino_Pilot
+APP-40051,CUST-10059,Retail Banking,Home Equity Line,45967,439468,120,Education,,697,0.61,Retired,31,Equipment,928068,Approved,0.1341,,,Approved,45722,Encompass_LOS
+APP-40052,CUST-10005,Retail Banking,Personal Loan,45493,104504,24,Education,101939,772,0.6,Employed,,Unsecured,1400810,Denied,0.7012,,,Denied,45782,Encompass_LOS
+APP-40053,CUST-10137,Small Business Banking,Business Expansion,45949,213014,24,Business expansion,1680078,638,0.34,Self-Employed,2,Vehicle,1409893,Denied,0.8359,,,Denied,45673,Encompass_LOS
+APP-40054,CUST-10057,Retail Banking,Auto Loan,45581,463823,180,Equipment,156833,820,0.47,,12,Inventory,,Approved,0.2509,,,Approved,45980,Encompass_LOS
+APP-40055,CUST-10067,Retail Banking,Home Equity Line,45461,426226,84,Home improvement,242944,613,0.37,Self-Employed,15,,280039,Approved,0.389,,,Approved,45558,nCino_Pilot
+APP-40056,CUST-10138,Small Business Banking,Business Expansion,45513,59949,360,Debt consolidation,3107291,729,0.45,Part-Time,31,Unsecured,369328,Denied,0.7197,,,Denied,45550,nCino_Pilot
+APP-40057,CUST-10015,Retail Banking,Home Equity Line,45939,254889,12,Working capital,203131,824,0.22,Part-Time,8,Inventory,958147,Referred,0.6843,,,Approved,45923,Encompass_LOS
+APP-40058,CUST-10085,Retail Banking,Auto Loan,45651,303769,84,Working capital,189100,768,0.4,Employed,4,Unsecured,,Referred,0.4286,,,Denied,45997,Encompass_LOS
+APP-40059,CUST-10064,Retail Banking,Auto Loan,45492,443168,120,Equipment,,628,0.47,Part-Time,8,,211039,Referred,0.5103,,,Approved,45814,Encompass_LOS
+APP-40060,CUST-10065,Retail Banking,Mortgage Refinance,45458,52571,24,Inventory financing,77475,612,0.35,Retired,,Unsecured,,Approved,0.2608,,,Approved,45608,Encompass_LOS
+APP-40061,CUST-10044,Retail Banking,Personal Loan,45694,282411,48,Working capital,219436,765,,Part-Time,13,Equipment,,Approved,0.354,,,Approved,45577,nCino_Pilot
+APP-40062,CUST-10046,Retail Banking,Mortgage Refinance,45422,375340,24,Business expansion,106932,768,0.54,Self-Employed,10,Real Estate,1275638,Referred,0.5218,,,Denied,45576,nCino_Pilot
+APP-40063,CUST-10141,Small Business Banking,Commercial Real Estate,45409,416074,180,Education,4554634,648,0.21,Part-Time,,Real Estate,1941738,Referred,0.5656,,,Denied,45984,nCino_Pilot
+APP-40064,CUST-10026,Retail Banking,Personal Loan,45423,352871,36,Real estate acquisition,199053,847,0.61,Self-Employed,27,Inventory,182782,Referred,0.5736,,,Denied,45673,Encompass_LOS
+APP-40065,CUST-10083,Retail Banking,Mortgage Refinance,45562,324639,12,Education,223227,561,0.4,Employed,34,Vehicle,1560334,Denied,0.7813,,,Denied,45536,Encompass_LOS
+APP-40066,CUST-10078,Retail Banking,Mortgage Refinance,45547,103691,12,Education,162446,802,0.42,Employed,11,Vehicle,163015,Denied,0.8161,,,Denied,45511,nCino_Pilot
+APP-40067,CUST-10004,Retail Banking,Personal Loan,45623,488438,84,Vehicle purchase,177969,754,0.6,Part-Time,23,,337006,Approved,0.1582,,,Approved,45573,nCino_Pilot
+APP-40068,CUST-10067,Retail Banking,Mortgage Refinance,45861,361723,12,Equipment,242944,613,0.58,Part-Time,12,,541471,Referred,0.6324,,,Approved,45619,Encompass_LOS
+APP-40069,CUST-10011,Retail Banking,Mortgage Refinance,45694,72574,240,Business expansion,144858,711,0.26,Self-Employed,16,Cash/Securities,1467560,Referred,0.643,,,Approved,45795,Encompass_LOS
+APP-40070,CUST-10073,Retail Banking,Home Equity Line,45368,61881,12,Real estate acquisition,201634,606,0.35,Part-Time,,Vehicle,,Denied,0.8736,,,Denied,45719,Encompass_LOS
+APP-40071,CUST-10062,Retail Banking,Mortgage Refinance,45406,327605,84,Debt consolidation,57630,,0.52,,,Vehicle,535970,Referred,0.4611,,,Approved,45458,Encompass_LOS
+APP-40072,CUST-10015,Retail Banking,Mortgage Refinance,45465,204247,180,Debt consolidation,203131,824,0.3,Part-Time,,Vehicle,613574,Approved,0.1092,,,Approved,45369,Encompass_LOS
+APP-40073,CUST-10015,Retail Banking,Personal Loan,45637,364012,84,Debt consolidation,203131,824,,Self-Employed,14,Real Estate,1190091,Referred,0.5318,,,Approved,45498,nCino_Pilot
+APP-40074,CUST-10031,Retail Banking,Auto Loan,45951,404599,120,Medical expenses,183259,678,0.43,,15,Cash/Securities,534376,Approved,0.1187,,,Approved,45976,nCino_Pilot
+APP-40075,CUST-10040,Retail Banking,Mortgage Refinance,45783,286256,84,Debt consolidation,92363,,0.26,Part-Time,9,Real Estate,1500416,Approved,0.3168,,,Approved,45478,Encompass_LOS
+APP-40076,CUST-10054,Retail Banking,Mortgage Refinance,45830,225798,120,Vehicle purchase,120393,740,0.38,,13,Cash/Securities,,Referred,0.4706,,,Denied,45648,nCino_Pilot
+APP-40077,CUST-10094,Retail Banking,Mortgage Refinance,45732,292417,24,Inventory financing,26361,707,0.55,Part-Time,26,Real Estate,,Approved,0.3986,,,Approved,45906,Encompass_LOS
+APP-40078,CUST-10133,Small Business Banking,Commercial Real Estate,45436,99537,360,Vehicle purchase,2791638,668,0.16,Part-Time,12,Vehicle,992682,Approved,0.242,,,Approved,45631,nCino_Pilot
+APP-40079,CUST-10081,Retail Banking,Personal Loan,45699,359517,84,Education,,816,,Self-Employed,19,,,Approved,0.1108,,,Approved,45957,nCino_Pilot
+APP-40080,CUST-10122,Retail Banking,Home Equity Line,45477,373890,240,Working capital,40359,791,0.3,Part-Time,35,Cash/Securities,599791,Denied,0.7962,,,Denied,45344,Encompass_LOS
+APP-40081,CUST-10114,Retail Banking,Personal Loan,45588,401190,84,Real estate acquisition,66237,680,,,28,Real Estate,1995172,Denied,0.8686,,,Denied,45811,Encompass_LOS
+APP-40082,CUST-10018,Retail Banking,Auto Loan,45800,75749,24,Business expansion,190089,844,0.49,,31,Real Estate,1247996,Denied,0.9026,Yes,Additional collateral provided,Approved,45728,Encompass_LOS
+APP-40083,CUST-10050,Retail Banking,Home Equity Line,45636,277856,60,Real estate acquisition,156140,836,0.16,Part-Time,17,Cash/Securities,1387185,Approved,0.3463,,,Approved,45964,Encompass_LOS
+APP-40084,CUST-10142,Small Business Banking,Working Capital,45845,73498,180,Equipment,2975051,725,0.61,Part-Time,,Cash/Securities,796729,Approved,0.0599,,,Approved,45834,nCino_Pilot
+APP-40085,CUST-10109,Retail Banking,Mortgage Refinance,45703,375818,24,Business expansion,85017,746,0.62,,1,,,Denied,0.7188,,,Denied,45385,Encompass_LOS
+APP-40086,CUST-10096,Retail Banking,Personal Loan,45933,85743,36,Working capital,,,0.27,Part-Time,21,,1294642,Approved,0.1313,,,Approved,45314,Encompass_LOS
+APP-40087,CUST-10052,Retail Banking,Personal Loan,45484,102294,240,Education,,838,,Part-Time,31,Unsecured,994005,Denied,0.9348,Yes,Additional collateral provided,Approved,46013,nCino_Pilot
+APP-40088,CUST-10016,Retail Banking,Mortgage Refinance,45630,101955,24,Education,120478,770,0.19,Self-Employed,14,Vehicle,1763303,Denied,0.956,,,Denied,45944,nCino_Pilot
+APP-40089,CUST-10074,Retail Banking,Auto Loan,45719,228621,12,Home improvement,133255,654,0.32,Part-Time,3,Unsecured,911974,Approved,0.2739,,,Approved,45621,nCino_Pilot
+APP-40090,CUST-10004,Retail Banking,Personal Loan,45574,171932,84,Real estate acquisition,177969,754,0.61,Retired,30,Equipment,1610992,Approved,0.3862,,,Approved,45826,Encompass_LOS
+APP-40091,CUST-10059,Retail Banking,Auto Loan,45897,27386,180,Real estate acquisition,,697,0.35,Self-Employed,,,61337,Denied,0.8684,,,Denied,45456,Encompass_LOS
+APP-40092,CUST-10103,Retail Banking,Home Equity Line,45323,12313,120,Real estate acquisition,238703,746,0.56,Self-Employed,12,Real Estate,342013,Denied,0.892,,,Denied,45909,Encompass_LOS
+APP-40093,CUST-10049,Retail Banking,Mortgage Refinance,45447,323151,24,Business expansion,96609,660,0.37,Part-Time,9,Vehicle,1046478,Denied,0.931,,,Denied,45489,Encompass_LOS
+APP-40094,CUST-10079,Retail Banking,Auto Loan,45832,182513,84,Vehicle purchase,90024,553,0.49,Retired,30,Real Estate,,Referred,0.449,,,Approved,45846,Encompass_LOS
+APP-40095,CUST-10084,Retail Banking,Auto Loan,45956,482178,84,Education,89155,572,0.31,Self-Employed,14,Cash/Securities,507062,Denied,0.9016,,,Denied,45523,nCino_Pilot
+APP-40096,CUST-10005,Retail Banking,Home Equity Line,45889,272890,60,Home improvement,101939,772,0.34,Part-Time,12,,1502978,Approved,0.188,,,Approved,45471,Encompass_LOS
+APP-40097,CUST-10122,Retail Banking,Auto Loan,45824,122090,84,Working capital,40359,791,0.31,,12,Unsecured,629959,Denied,0.8171,,,Denied,45633,nCino_Pilot
+APP-40098,CUST-10130,Retail Banking,Home Equity Line,45658,135142,120,Home improvement,128495,567,0.36,Retired,9,Inventory,1174473,Denied,0.8113,Yes,Co-signer added,Approved,45580,Encompass_LOS
+APP-40099,CUST-10028,Retail Banking,Home Equity Line,45661,244045,12,Business expansion,54907,583,0.5,,9,Equipment,796492,Referred,0.4716,,,Approved,45610,Encompass_LOS
+APP-40100,CUST-10102,Retail Banking,Auto Loan,45537,176237,36,Real estate acquisition,,,0.53,Employed,8,Vehicle,,Referred,0.6486,,,Denied,45634,Encompass_LOS
+APP-40101,CUST-10093,Retail Banking,Home Equity Line,45549,182292,120,Vehicle purchase,227782,717,,,13,Inventory,,Approved,0.3695,,,Approved,45755,Encompass_LOS
+APP-40102,CUST-10143,Small Business Banking,Working Capital,45379,32516,36,Inventory financing,1006921,767,0.5,Retired,25,Real Estate,617417,Referred,0.4952,,,Approved,45679,Encompass_LOS
+APP-40103,CUST-10141,Small Business Banking,Working Capital,45994,26039,360,Business expansion,4554634,648,0.17,,10,Inventory,1134555,Approved,0.2634,,,Approved,45620,nCino_Pilot
+APP-40104,CUST-10073,Retail Banking,Home Equity Line,45452,296641,120,Home improvement,201634,606,0.34,Retired,28,Unsecured,1418963,Denied,0.8264,,,Denied,45753,Encompass_LOS
+APP-40105,CUST-10011,Retail Banking,Mortgage Refinance,46013,426860,48,Working capital,144858,711,0.62,Retired,3,Cash/Securities,1198763,Approved,0.2412,,,Approved,45764,Encompass_LOS
+APP-40106,CUST-10080,Retail Banking,Personal Loan,46002,118468,180,Equipment,82894,662,0.58,,31,Inventory,608406,Approved,0.2419,,,Approved,45342,Encompass_LOS
+APP-40107,CUST-10001,Retail Banking,Personal Loan,45427,329679,120,Working capital,134974,662,,Self-Employed,,Equipment,410106,Approved,0.0604,,,Approved,46003,Encompass_LOS
+APP-40108,CUST-10072,Retail Banking,Mortgage Refinance,45895,347688,48,Home improvement,,570,,Employed,30,Vehicle,,Denied,0.7665,,,Denied,45634,nCino_Pilot
+APP-40109,CUST-10149,Small Business Banking,Business Expansion,45385,146592,120,Equipment,2875747,671,,Employed,,Inventory,874916,Referred,0.5738,,,Approved,45310,Encompass_LOS
+APP-40110,CUST-10017,Retail Banking,Home Equity Line,45405,377192,180,Debt consolidation,137692,846,0.39,Employed,27,Unsecured,1034516,Denied,0.7958,Yes,Co-signer added,Approved,45654,Encompass_LOS
+APP-40111,CUST-10074,Retail Banking,Home Equity Line,46009,51355,240,Vehicle purchase,133255,654,0.38,Retired,22,Inventory,,Referred,0.4894,,,Approved,45823,Encompass_LOS
+APP-40112,CUST-10075,Retail Banking,Auto Loan,45708,431889,60,Vehicle purchase,171299,702,0.59,Retired,29,Inventory,1817325,Referred,0.6784,,,Denied,45302,nCino_Pilot
+APP-40113,CUST-10038,Retail Banking,Home Equity Line,45639,288226,24,Equipment,140796,726,0.52,Employed,34,Real Estate,1216836,Denied,0.8415,,,Denied,45430,Encompass_LOS
+APP-40114,CUST-10059,Retail Banking,Home Equity Line,45766,261471,84,Equipment,,697,0.52,Employed,29,Vehicle,1887442,Denied,0.7911,,,Denied,45627,nCino_Pilot
+APP-40115,CUST-10028,Retail Banking,Mortgage Refinance,45765,80683,24,Education,54907,583,0.5,Employed,,Equipment,,Approved,0.3351,,,Approved,45599,Encompass_LOS
+APP-40116,CUST-10065,Retail Banking,Mortgage Refinance,45757,67365,120,Working capital,77475,612,0.33,,2,Cash/Securities,76098,Referred,0.4248,,,Denied,45820,Encompass_LOS
+APP-40117,CUST-10066,Retail Banking,Mortgage Refinance,45977,456503,12,Equipment,147527,832,0.53,Employed,5,Inventory,203040,Denied,0.7659,,,Denied,45406,Encompass_LOS
+APP-40118,CUST-10117,Retail Banking,Mortgage Refinance,45767,397719,120,Home improvement,177245,598,0.45,Employed,1,Unsecured,1062922,Referred,0.4864,,,Denied,45513,nCino_Pilot
+APP-40119,CUST-10100,Retail Banking,Personal Loan,45301,137751,360,Business expansion,219114,674,0.5,Part-Time,,Vehicle,171104,Referred,0.5067,,,Denied,45520,Encompass_LOS
+APP-40120,CUST-10002,Retail Banking,Mortgage Refinance,45724,411711,84,Working capital,119800,845,0.48,Part-Time,28,,1921879,Approved,0.2143,,,Approved,45328,Encompass_LOS
+APP-40121,CUST-10034,Retail Banking,Personal Loan,45489,234689,12,Medical expenses,43300,691,0.55,Part-Time,27,Real Estate,,Referred,0.4499,,,Denied,45973,nCino_Pilot

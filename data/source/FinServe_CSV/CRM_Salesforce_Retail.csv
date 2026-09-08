@@ -1,0 +1,101 @@
+﻿SF_Contact_ID,T24_Customer_ID,First_Name,Last_Name,Email,Phone,Mailing_Address,City,State,Zip,Account_Type,Relationship_Manager,Last_Contact_Date,Preferred_Channel,Marketing_Consent,Segment
+SF-60002,CUST-10001,Joseph,Johnson,joseph.johnson@gmail.com,(660) 502-5314,4112 Lake Shore Dr,Madison,WI,108265,Investment,M. Chen,45316,Online Banking,Yes,High Net Worth
+SF-60003,CUST-10002,Charles,Rivera,,(818) 470-1711,5674 Michigan Ave,Grand Rapids,MI,74110,Checking,N. Singh,45573,Branch,Yes,Mass Market
+SF-60004,CUST-10003,Emily,Garcia,emily.garcia@comcast.net,(473) 918-2169,1754 Lincoln Ave,Bloomington,IN,89714,Investment,K. Williams,45191,Mobile App,No,Mass Market
+SF-60005,CUST-10004,John,Perez,john.perez@comcast.net,(669) 346-5339,6814 Broadway,Milwaukee,WI,66308,Investment,S. Patel,44991,Email,Yes,Affluent
+SF-60006,CUST-10005,Barbara,Roberts,barbara.roberts@aol.com,(301) 232-7366,1896 Pine Rd,Aurora,IL,70484,Credit Card,L. Garcia,46010,Branch,Yes,Mass Market
+SF-60007,CUST-10006,Dorothy,King,dorothy.king@aol.com,(997) 743-1009,8417 Maple Ln,Bloomington,IN,101874,Checking,J. Martinez,45246,Email,No,Mass Market
+SF-60008,CUST-10007,David,Roberts,david.roberts@yahoo.com,(752) 973-4295,2160 Pine Rd,Toledo,OH,96031,Checking,M. Chen,46005,Branch,Yes,Affluent
+SF-60009,CUST-10008,Mark,Smith,mark.smith@yahoo.com,(752) 335-8744,1064 Lake Shore Dr,Chicago,IL,62058,Mortgage,L. Garcia,45263,Branch,Yes,Affluent
+SF-60010,CUST-10009,Richard,Brown,,(673) 455-2235,5659 Maple Ln,Grand Rapids,MI,,Investment,S. Patel,45268,Online Banking,Yes,High Net Worth
+SF-60011,CUST-10010,Lisa,Sanchez,lisa.sanchez@yahoo.com,(394) 503-4566,6496 Michigan Ave,Peoria,IL,89819,Savings,N. Singh,45734,Online Banking,Yes,Mass Market
+SF-60012,CUST-10011,Nancy,Jones,nancy.jones@outlook.com,(873) 797-9565,1213 Lake Shore Dr,Toledo,OH,,Investment,M. Chen,45892,Mobile App,Yes,Mass Market
+SF-60013,CUST-10012,Richard,Jones,richard.jones@outlook.com,(763) 611-9268,3592 Dearborn Ave,Cincinnati,OH,68680,Mortgage,A. Kim,45945,Branch,Yes,Mass Market
+SF-60014,CUST-10013,Anthony,Campbell,anthony.campbell@gmail.com,(203) 541-3143,3435 Michigan Ave,Racine,WI,92016,Mortgage,M. Chen,45610,Branch,,Mass Market
+SF-60015,CUST-10014,Christopher,Lewis,,(998) 773-7658,785 State St,Bloomington,IN,,Savings,K. Williams,46000,Branch,No,Affluent
+SF-60016,CUST-10015,Susan,Sanchez,susan.sanchez@gmail.com,(875) 397-7528,7811 Lake Shore Dr,Naperville,IL,90166,Credit Card,J. Martinez,45667,Online Banking,Yes,Affluent
+SF-60017,CUST-10016,Dorothy,Williams,dorothy.williams@aol.com,(394) 460-1727,9874 Jefferson St,Springfield,IL,107745,Mortgage,J. Martinez,45389,Branch,Yes,Mass Market
+SF-60018,CUST-10017,Jessica,Mitchell,jessica.mitchell@outlook.com,(880) 588-3851,8408 State St,Kenosha,WI,81376,Mortgage,L. Garcia,45919,Online Banking,Yes,Affluent
+SF-60019,CUST-10018,Margaret III,King,margaret.king@comcast.net,(517) 430-4262,2880 Elm Dr,Ann Arbor,MI,93780,Savings,A. Kim,45462,Phone,Yes,Mass Market
+SF-60020,CUST-10019,Christopher,Nelson,christopher.nelson@gmail.com,(667) 336-8612,9446 Lincoln Ave,Joliet,IL,74249,Checking,M. Chen,45367,Online Banking,Yes,High Net Worth
+SF-60021,CUST-10020,Dorothy,Roberts,dorothy.roberts@hotmail.com,(543) 527-9849,4643 Dearborn Ave,South Bend,IN,101074,Mortgage,J. Martinez,45943,Email,Yes,Affluent
+SF-60022,CUST-10021,Linda,Anderson,linda.anderson@aol.com,(965) 952-9947,6481 Main St,Kalamazoo,MI,84928,Mortgage,M. Chen,45501,Email,Yes,Affluent
+SF-60023,CUST-10022,Patricia,Clark,patricia.clark@hotmail.com,(588) 535-4467,9346 Main St,Columbus,OH,102123,Investment,J. Martinez,45974,Email,Yes,Mass Market
+SF-60024,CUST-10023,Jennifer,Roberts,jennifer.roberts@aol.com,(423) 676-5198,4151 Park Way,Peoria,IL,61335,Mortgage,L. Garcia,45727,Online Banking,Yes,Mass Market
+SF-60025,CUST-10024,Ronald ,Campbell,ronald.campbell@hotmail.com,(745) 638-7071,1345 Lake Shore Dr,Indianapolis,IN,105691,Investment,N. Singh,45696,Mobile App,Yes,Mass Market
+SF-60026,CUST-10025,Paul,Green,paul.green@hotmail.com,(661) 449-8613,8021 Madison Dr,Toledo,OH,107908,Savings,A. Kim,45338,Online Banking,Yes,Mass Market
+SF-60027,CUST-10026,Kimberly,Torres,kimberly.torres@comcast.net,(928) 702-8342,8564 Park Way,Chicago,IL,75817,Mortgage,S. Patel,45549,Phone,Yes,Affluent
+SF-60028,CUST-10027,Jason,Carter,jason.carter@gmail.com,(960) 748-4033,5519 Washington Blvd,Toledo,OH,77754,Savings,D. Thompson,45615,Phone,No,Mass Market
+SF-60029,CUST-10028,Daniel,Lee,,(212) 787-5658,8851 Pine Rd,Springfield,IL,62982,Investment,R. Washington,44966,Mobile App,Yes,Affluent
+SF-60030,CUST-10029,Michael,Martinez,michael.martinez@aol.com,(589) 661-8253,9321 State St,Indianapolis,IN,76265,Investment,S. Patel,45244,Mobile App,Yes,Mass Market
+SF-60031,CUST-10030,Donald,Lopez,donald.lopez@yahoo.com,(495) 923-5632,9830 Main St,Green Bay,WI,71092,Mortgage,N. Singh,45570,Mobile App,Yes,Mass Market
+SF-60032,CUST-10031,Christopher,Jones,christopher.jones@comcast.net,(612) 478-9199,2818 State St,Joliet,IL,,Savings,R. Washington,45813,Email,Yes,Mass Market
+SF-60033,CUST-10032,Robert,Roberts,robert.roberts@comcast.net,(703) 293-8700,9541 Oak Ave,Madison,WI,90834,Savings,N. Singh,45047,Branch,Yes,Mass Market
+SF-60034,CUST-10033,Michelle Jr.,Davis,michelle.davis@comcast.net,,8531 Main St,Kalamazoo,MI,90276,Mortgage,R. Washington,45907,Phone,No,Mass Market
+SF-60035,CUST-10034,Edward,Garcia,edward.garcia@outlook.com,(694) 683-4993,1958 Madison Dr,Indianapolis,IN,102448,Mortgage,L. Garcia,45589,Phone,Yes,Affluent
+SF-60036,CUST-10035,James,Martin,james.martin@outlook.com,(666) 529-4090,9716 Clark St,Madison,WI,89264,Checking,T. O'Brien,44936,Phone,,Affluent
+SF-60037,CUST-10036,John Jr.,Rodriguez,john.rodriguez@comcast.net,(358) 276-8692,9769 Broadway,Columbus,OH,88855,Checking,K. Williams,45799,Branch,Yes,Affluent
+SF-60038,CUST-10037,Gary Sr.,Scott,gary.scott@comcast.net,(920) 302-8269,1221 Lake Shore Dr,Aurora,IL,104852,Credit Card,L. Garcia,45699,Mobile App,,Mass Market
+SF-60039,CUST-10038,Nancy,Hernandez,nancy.hernandez@comcast.net,(460) 670-5183,1393 Lincoln Ave,Carmel,IN,104769,Savings,R. Washington,45887,Email,Yes,Affluent
+SF-60040,CUST-10039,Ryan,Lee,ryan.lee@gmail.com,(874) 605-5497,6402 Clark St,Indianapolis,IN,75545,Mortgage,M. Chen,45497,Phone,Yes,Affluent
+SF-60041,CUST-10040,Steven,Hall,,(534) 965-7807,5053 Lake Shore Dr,Racine,WI,78079,Checking,T. O'Brien,45309,Branch,Yes,Affluent
+SF-60042,CUST-10041,Christopher Sr.,Roberts,christopher.roberts@comcast.net,(966) 888-5295,6611 Washington Blvd,Indianapolis,IN,85858,Checking,K. Williams,45981,Phone,Yes,Affluent
+SF-60043,CUST-10042,Cynthia,Rivera,cynthia.rivera@aol.com,(636) 519-6395,6789 Maple Ln,Madison,WI,62971,Credit Card,L. Garcia,45037,Phone,,High Net Worth
+SF-60044,CUST-10043,Melissa,Anderson,melissa.anderson@outlook.com,(482) 394-3001,7385 Lake Shore Dr,Ann Arbor,MI,66511,Savings,A. Kim,45649,Online Banking,Yes,Mass Market
+SF-60045,CUST-10044,Margaret,Thomas,margaret.thomas@comcast.net,(226) 334-1243,2517 Main St,Green Bay,WI,69482,Savings,N. Singh,45080,Online Banking,No,Mass Market
+SF-60046,CUST-10045,George,King,george.king@hotmail.com,(669) 858-1510,1886 Madison Dr,Dayton,OH,74519,Checking,A. Kim,45375,Email,Yes,Affluent
+SF-60047,CUST-10046,Kimberly,Green,kimberly.green@gmail.com,(918) 317-4522,9084 Broadway,Toledo,OH,99150,Credit Card,K. Williams,45528,Branch,Yes,Affluent
+SF-60048,CUST-10047,Jacob,Jones,jacob.jones@comcast.net,(325) 620-6793,1498 Elm Dr,Evanston,IL,66328,Checking,A. Kim,44951,Online Banking,,Mass Market
+SF-60049,CUST-10048,Susan,White,susan.white@aol.com,(873) 910-5381,6122 Maple Ln,Cincinnati,OH,97624,Investment,R. Washington,45755,Email,Yes,Mass Market
+SF-60050,CUST-10049,Barbara Sr.,Carter,barbara.carter@gmail.com,,3624 Lincoln Ave,Toledo,OH,,Investment,N. Singh,45647,Branch,Yes,Mass Market
+SF-60051,CUST-10050,Gary,Wright,gary.wright@hotmail.com,(496) 535-2965,844 Lake Shore Dr,Kenosha,WI,99277,Credit Card,D. Thompson,44992,Phone,Yes,Affluent
+SF-60052,CUST-10051,Sharon,Johnson,sharon.johnson@gmail.com,(614) 221-6321,1375 Broadway,Kalamazoo,MI,88133,Checking,T. O'Brien,45406,Phone,Yes,Mass Market
+SF-60053,CUST-10052,Mark ,Thompson,mark.thompson@yahoo.com,,1351 Dearborn Ave,Indianapolis,IN,94773,Mortgage,D. Thompson,45120,Email,,High Net Worth
+SF-60054,CUST-10053,Michelle,Adams,michelle.adams@hotmail.com,(719) 275-6085,2573 Madison Dr,Milwaukee,WI,90731,Credit Card,M. Chen,45589,Online Banking,,Affluent
+SF-60055,CUST-10054,Jennifer,Robinson,jennifer.robinson@comcast.net,(286) 716-3827,3184 Broadway,Dayton,OH,91170,Checking,L. Garcia,45153,Email,Yes,Affluent
+SF-60056,CUST-10055,Michael,Adams,michael.adams@hotmail.com,(283) 796-3317,1179 Broadway,Milwaukee,WI,96566,Credit Card,J. Martinez,45855,Email,Yes,Affluent
+SF-60057,CUST-10056,Barbara III,Nelson,barbara.nelson@yahoo.com,(340) 358-2264,8431 Washington Blvd,Detroit,MI,83763,Mortgage,D. Thompson,45117,Online Banking,Yes,Mass Market
+SF-60058,CUST-10057,Lisa,Mitchell,lisa.mitchell@aol.com,,815 Jefferson St,Ann Arbor,MI,,Savings,D. Thompson,45872,Online Banking,Yes,Affluent
+SF-60059,CUST-10058,Steven,Brown,steven.brown@aol.com,(350) 647-2502,6181 Maple Ln,Kalamazoo,MI,68170,Investment,A. Kim,45484,Mobile App,Yes,Mass Market
+SF-60060,CUST-10059,Patricia,Perez,patricia.perez@outlook.com,(830) 205-2298,5593 Pine Rd,Naperville,IL,,Savings,D. Thompson,45057,Phone,Yes,Mass Market
+SF-60061,CUST-10060,Rebecca III,Adams,rebecca.adams@comcast.net,(347) 498-8032,7589 Elm Dr,Columbus,OH,92756,Checking,L. Garcia,45862,Online Banking,,Mass Market
+SF-60062,CUST-10061,Robert,Sanchez,robert.sanchez@comcast.net,(872) 843-2698,813 Lincoln Ave,Ann Arbor,MI,,Credit Card,L. Garcia,45316,Phone,Yes,High Net Worth
+SF-60063,CUST-10062,Sarah,Jones,sarah.jones@aol.com,(684) 459-1599,705 State St,Grand Rapids,MI,62870,Savings,A. Kim,45010,Email,Yes,Affluent
+SF-60064,CUST-10063,Carol III,Lopez,carol.lopez@aol.com,(500) 528-2680,8251 Washington Blvd,Kalamazoo,MI,77479,Savings,S. Patel,45017,Online Banking,Yes,Affluent
+SF-60065,CUST-10064,Amanda ,Green,amanda.green@gmail.com,(346) 822-8179,4598 Oak Ave,Detroit,MI,103986,Investment,J. Martinez,45877,Phone,,High Net Worth
+SF-60066,CUST-10065,Elizabeth,Nguyen,elizabeth.nguyen@outlook.com,(730) 596-2929,8774 Washington Blvd,South Bend,IN,80603,Credit Card,K. Williams,45342,Online Banking,Yes,Mass Market
+SF-60067,CUST-10066,Jeffrey,Garcia,jeffrey.garcia@hotmail.com,(720) 429-2988,5792 Elm Dr,Racine,WI,95531,Mortgage,N. Singh,45927,Phone,Yes,Mass Market
+SF-60068,CUST-10067,Ronald,Campbell,ronald@campbelloutlook.com,(896) 729-6644,8712 Jefferson St,Lansing,MI,97676,Mortgage,J. Martinez,44948,Online Banking,,Mass Market
+SF-60069,CUST-10068,Mark,White,,,4753 Elm Dr,Cincinnati,OH,72864,Checking,S. Patel,45357,Branch,,Mass Market
+SF-60070,CUST-10069,Dorothy,Nelson,dorothy.nelson@outlook.com,(450) 901-7653,9473 Jefferson St,Carmel,IN,101876,Investment,N. Singh,45731,Online Banking,Yes,Mass Market
+SF-60071,CUST-10070,Brian,Clark,brian.clark@yahoo.com,(344) 299-1829,6170 Dearborn Ave,Carmel,IN,66958,Checking,T. O'Brien,45456,Email,Yes,Mass Market
+SF-60072,CUST-10071,Amy,Lee,,(488) 706-8710,479 Elm Dr,Lansing,MI,93124,Checking,T. O'Brien,45355,Branch,Yes,Affluent
+SF-60073,CUST-10072,Matthew,Harris,matthew.harris@yahoo.com,(299) 603-7114,4828 Elm Dr,Toledo,OH,93046,Investment,R. Washington,45767,Email,Yes,Mass Market
+SF-60074,CUST-10073,Jacob,Wright,jacob.wright@aol.com,(544) 719-9351,2540 Dearborn Ave,Grand Rapids,MI,81493,Investment,S. Patel,45649,Online Banking,Yes,Affluent
+SF-60075,CUST-10074,Patricia,Flores,patricia.flores@yahoo.com,(897) 448-1517,4450 Lake Shore Dr,Detroit,MI,98241,Mortgage,T. O'Brien,45950,Branch,Yes,Affluent
+SF-60076,CUST-10075,Linda,Campbell,linda.campbell@outlook.com,(745) 550-9950,8598 Park Way,Carmel,IN,81302,Credit Card,L. Garcia,45977,Mobile App,Yes,Mass Market
+SF-60077,CUST-10076,Gary,Perez,gary.perez@yahoo.com,(497) 243-5712,5814 Michigan Ave,Ann Arbor,MI,67987,Savings,T. O'Brien,44930,Email,No,Affluent
+SF-60078,CUST-10077,Susan,Green,susan.green@outlook.com,(538) 934-8739,4020 Lake Shore Dr,Columbus,OH,103898,Checking,R. Washington,45852,Email,Yes,Affluent
+SF-60079,CUST-10078,Barbara,Nelson,barbara.nelson@comcast.net,(211) 855-4296,3904 Oak Ave,Cleveland,OH,87386,Mortgage,T. O'Brien,45056,Online Banking,No,Mass Market
+SF-60080,CUST-10079,Joseph,Thompson,joseph@thompsonaol.com,(854) 615-8007,7618 Michigan Ave,Fort Wayne,IN,60923,Checking,M. Chen,45497,Online Banking,,Affluent
+SF-60081,CUST-10080,Paul,Thompson,paul.thompson@outlook.com,(514) 363-7642,9643 Main St,Green Bay,WI,102839,Savings,R. Washington,45465,Mobile App,No,Mass Market
+SF-60082,CUST-10081,Melissa,Ramirez,melissa.ramirez@gmail.com,,7814 Park Way,Cleveland,OH,104586,Savings,D. Thompson,45245,Online Banking,Yes,High Net Worth
+SF-60083,CUST-10082,Gary,Garcia,gary.garcia@comcast.net,(515) 940-1356,7398 Oak Ave,Toledo,OH,68647,Credit Card,J. Martinez,45796,Branch,No,Mass Market
+SF-60084,CUST-10083,Edward,Lopez,edward.lopez@yahoo.com,(869) 556-2943,6987 Washington Blvd,South Bend,IN,89395,Savings,N. Singh,45834,Branch,Yes,Affluent
+SF-60085,CUST-10084,Jason,Scott,jason.scott@comcast.net,(629) 829-1256,3862 Lake Shore Dr,Lansing,MI,82685,Mortgage,J. Martinez,45494,Online Banking,Yes,Affluent
+SF-60086,CUST-10085,Linda,Rodriguez,linda.rodriguez@hotmail.com,(346) 876-9540,4839 Lake Shore Dr,Dayton,OH,80899,Credit Card,A. Kim,45716,Branch,Yes,High Net Worth
+SF-60087,CUST-10086,Timothy,Wright,timothy.wright@yahoo.com,(507) 924-3365,6921 Jefferson St,Madison,WI,79653,Mortgage,K. Williams,45146,Branch,No,Affluent
+SF-60088,CUST-10087,Laura,Harris,laura.harris@yahoo.com,(979) 801-4555,8875 Park Way,Chicago,IL,77593,Mortgage,R. Washington,45783,Email,Yes,Mass Market
+SF-60089,CUST-10088,Donald,Torres,donald.torres@outlook.com,(677) 300-8692,4737 Lincoln Ave,Kenosha,WI,94973,Savings,S. Patel,45536,Mobile App,No,Mass Market
+SF-60090,CUST-10089,Rebecca,Martin,rebecca.martin@hotmail.com,(981) 700-9037,8679 State St,Ann Arbor,MI,69390,Checking,L. Garcia,45723,Email,No,Mass Market
+SF-60091,CUST-10090,Michael,Roberts,michael.roberts@aol.com,(666) 582-1990,6856 Pine Rd,Peoria,IL,101333,Checking,J. Martinez,45313,Online Banking,Yes,Affluent
+SF-60092,CUST-10091,Kimberly,Scott,kimberly@scottaol.com,(739) 458-6807,380 Dearborn Ave,Kenosha,WI,71748,Checking,L. Garcia,46001,Email,,Mass Market
+SF-60093,CUST-10092,Jacob,Brown,jacob.brown@gmail.com,(435) 416-8790,2907 Elm Dr,Evanston,IL,,Savings,M. Chen,45026,Branch,No,Mass Market
+SF-60094,CUST-10093,Ronald Jr.,Jones,ronald.jones@aol.com,(963) 554-1879,2761 Lake Shore Dr,Racine,WI,85503,Mortgage,A. Kim,45050,Email,,Mass Market
+SF-60095,CUST-10094,Sandra,White,sandra.white@yahoo.com,(930) 275-2344,6250 Jefferson St,Cleveland,OH,104544,Checking,R. Washington,45826,Branch,Yes,High Net Worth
+SF-60096,CUST-10095,Barbara,Lopez,barbara.lopez@outlook.com,(212) 498-7779,4111 Cedar Blvd,Columbus,OH,80406,Investment,M. Chen,45871,Phone,Yes,Affluent
+SF-60097,CUST-10096,David,Hernandez,david.hernandez@aol.com,(831) 400-8501,4621 Jefferson St,Ann Arbor,MI,91734,Checking,S. Patel,45294,Mobile App,Yes,Affluent
+SF-60098,CUST-10097,Michelle,Flores,michelle.flores@aol.com,(448) 533-7161,7948 Broadway,Fort Wayne,IN,86099,Investment,D. Thompson,45818,Branch,Yes,Mass Market
+SF-60099,CUST-10098,Emily,Rivera,emily.rivera@outlook.com,(275) 659-8851,6803 Clark St,Naperville,IL,101506,Investment,S. Patel,45570,Email,No,Mass Market
+SF-60100,CUST-10099,Amanda,Hernandez,amanda.hernandez@comcast.net,(731) 771-4621,7809 Lake Shore Dr,Grand Rapids,MI,69418,Investment,T. O'Brien,45479,Branch,Yes,Mass Market
+SF-60101,CUST-10100,Christopher,White,christopher.white@hotmail.com,(268) 507-1732,5720 Madison Dr,Madison,WI,94151,Checking,S. Patel,45334,Mobile App,No,Mass Market
