@@ -104,7 +104,7 @@ This demonstrates a governance approach of:
 
 ## Project Context
 
-FinServe Bank provides the fictional banking context and synthetic datasets used for this portfolio project. **All technical implementation documented in this repository was performed hands-on in a real Microsoft Azure and Microsoft Purview environment.**
+FinServe Bank provides the fictional banking context and portfolio datasets used for this project. All technical implementation documented in this repository was performed hands-on in a real Microsoft Azure and Microsoft Purview environment.
 
 The project is intended to demonstrate practical data governance implementation skills rather than represent a production deployment for a real financial institution.
 
